@@ -19,7 +19,7 @@ p {
   color: rgb(85, 85, 85);
 }
 
-/* TRANSITION */
+/* TRANSITIONS */
 
 a,
 .btn {
@@ -349,6 +349,7 @@ article {
   gap: 0.5rem;
 }
 
+
 articleCustomised {
   display: flex;
   width: 5rem;
@@ -428,6 +429,7 @@ article .icon {
 }
 
 /* FOOTER SECTION */
+
 
 footer {
   height: 26vh;
