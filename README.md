@@ -1,4 +1,3 @@
-Baha's Unity Game Development Portfolio
 Hey there! I'm Baha, a seasoned game developer with a passion for crafting immersive experiences in Unity. My portfolio is a snapshot of:
 
 Key Points
