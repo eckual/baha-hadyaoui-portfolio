@@ -1,4 +1,4 @@
-Hey there! I'm Baha or you can call me eckual, a seasoned game developer with a passion for crafting immersive unity-based experiences. My portfolio is a snapshot of:
+Hello there! I'm Baha, also known as Eckual, an experienced game developer deeply passionate about creating immersive Unity-based experiences. My portfolio serves as a snapshot showcasing the culmination of my skills and dedication to crafting engaging gaming environments.
 
 🎮 Professional Expertise: Backed by hands-on experience, I've delivered projects that reflect both technical prowess and a deep understanding of user satisfaction.
 
