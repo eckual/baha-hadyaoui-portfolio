@@ -8,4 +8,4 @@ Hello there ! I'm Baha. also known as Eckual, an experienced game developer deep
 
 🌐 Deployment Mastery: Taking games from concept to various platforms seamlessly, ensuring players get the best experience possible.
 
-Let's create some gaming magic!
+Let's create some gaming magic !
